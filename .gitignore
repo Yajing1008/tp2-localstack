@@ -1,0 +1,8 @@
+# OpenTofu / Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# CLI / OS
+.DS_Store
+Thumbs.db
